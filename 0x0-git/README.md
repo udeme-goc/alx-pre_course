@@ -1,1 +1,1 @@
-My readme should not be blank
+Readme file cannot be blank
